@@ -7,3 +7,5 @@
 # Quarto titulo
 
 # Git pull
+
+# Git fetch
